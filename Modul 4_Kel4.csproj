@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Modul_4_Kel4</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\kuliah\modul4 _kelompok4\Modul 4_Kel4.cs" Link="Modul 4_Kel4.cs" />
+  </ItemGroup>
+
+</Project>
