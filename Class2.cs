@@ -8,7 +8,7 @@ namespace Modul_4_Kel4
     {
         public void tx()
         {
-            Console.WriteLine("TERIMA KASIH TELAH BERBELANJA DI TOKO ELEKTRONIK SINAR JAYA ");
+            Console.WriteLine("TERIMA KASIH TELAH BERBELANJA DI TOKO ELEKTRONIK SINAR JAYA KAMI");
 
         }
 
